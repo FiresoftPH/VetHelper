@@ -1,0 +1,1267 @@
+﻿ID,Isolate Number,HN,Unit,Species,Breed,Sex,Submitted sample,Method of collection,Methods,Vitek card lot,Bacterial species identification,Counting (CFU/mL),ESBL,Ampicillin,ampicillin_,Amoxicillin/clavulanic acid,amoxicillin/clavulanic acid_,Cephalexin,cephalexin_,Cefalothin,cefalothin_,Cefpodoxime,cefpodoxime_,Cefovecin,cefovecin_,Ceftiofur,ceftiofur_,Imipenem,imipenem_,Amikacin,amikacin_,Gentamicin,gentamicin_,Neomycin,neomycin_,Enrofloxacin,enrofloxacin_,Marbofloxacin,marbofloxacin_,Pradofloxacin,pradofloxacin_,Doxycycline,doxycycline_,Tetracycline,tetracycline_,Nitrofurantoin,nitrofurantoin_,Chloramphenicol,chloramphenicol_,Sulfamethoxazole/trimethoprim,sulfamethoxazole/trimethoprim_,Specific resistance phenotype,Interpretation and recommendation,Field1,Field2,Florfenicol,florfenicol_,Sulfamethoxazole/trimethoprim1,sulfamethoxazole/trimethoprim_1,Specific resistance phenotype1,Interpretation and recommendation1
+2,M9/2566,6510301,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Poodle,Female,urine,Catheterization,Maldi/VITEK,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,1,I,>=16,R,>=16,R,<=16,S,4,S,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+3,M22/2566,6513969,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Bangkaew,Male,urine,cystocenteis,Maldi/VITEK,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,>=64,R,>=16,R,>=64,R,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,128,R,>=64,R,>=320,R,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 -	เชื้อดื้อต่อยาทุกชนิดที่ใช้ทดสอบและมีใช้ในคลินิก แนะนำให้ flush ล้างกระเพาะปัสสาวะด้วย Microcyn® เพื่อช่วยกำจัด/ลดจำนวนเชื้อในกระเพาะปัสสาวะ และจัดการกับสาเหตุโน้มนำต่างๆ เช่น ไม่คาท่อ/สายสวนปัสสาวะ จัดการปัญหานิ่ว เป็นต้น หากจำเป็นต้องใช้ยาต้านจุลชีพที่ออกฤทธิ์ทั่วร่างกาย ยาที่อาจพอได้ผลในการรักษา หากใช้ในขนาดและความถี่ที่แนะนำ ได้แก่ 
+     o	 Imipenem 10 mg/kg q6h หรือ 20 mg/kg q12h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่อง
+        จนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+4,M27/2565,,,Cat,Domestic Shorthair (DSH),Male,swab uterus,NA,Maldi/VITEK,GN-AST,Escherichia coli,NA,NEG,8,R,4,R,8,R,4,I,0.5,S,2,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,8,S,<=20,S,Escherichia coli,"- 	การติดเชื้อในมดลูกจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h SC, IV (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o (หากอาการไม่รุนแรงหรือตัดมดลูกออกแล้ว) 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 7 d หรือ
+        ให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติด
+        เชื้อเรื้อรัง",,,,,,,,
+6,M29/2566,6315128,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Jack Russell Terrier,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,4,I,>=8,R,4,I,1,S,4,S,>=16,R,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,16,I,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะ
+        แห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+7,M33/2566,,,Dog,Chihuahua,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+8,M35/2566,6115825,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pug,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,8,S,4,S,8,S,8,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+10,M42/2566,6504653,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixd breed,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,>=64,R,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+12,M53/2566,6515151,แผนกสูติกรรม,Dog,Mixed breed,Male,PG cyst,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+13,M51/2566,6200086,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Chihuahua,Male,urine,NA,Vitek/MALDI,GN-AST,Escherichia coli,1.0x10^3,NEG,>=32,R,8,S,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,>=16,R,>=16,R,<=16,S,<=2,S,>=320,R,,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+14,M52/2566,5605741,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Golden Retriever,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,16,S,32,R,2,S,1,S,2,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,2,S,8,I,32,S,16,I,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+15,M54/2566,6210180,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pomeranian,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,<=2,S,<=2,S,8,S,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,16,I,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+16,M57/2566,6114808,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,8,S,16,S,32,R,1,*R,<=0.5,S,<=1,S,1,S,16,R,2,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,2,S,<=16,S,4,S,<=20,S,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+17,M56/2566,5507660,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Domestic Shorthair (DSH),Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,2.0x10^3,POS,>=32,R,8,S,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,<=0.5,S,<=1,S,<=16,S,<=2,S,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+20,M71/2566,6600435,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Shih Tzu,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,8,R,<=2,S,16,S,16,S,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,4,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+21,M68/2566,,,Dog,Pomeranian,Male,Bile,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,8,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,16,I,<=20,S,ESBL-producing Escherichia coli,"- Eschrichia coli เป็นเชื้อประจำถิ่นในลำไส้ ในกรณีจึงอาจเกิดจากการปนเปื้อนมายังตัวอย่างหรืออาจเป็นการติดเชื้อก็ได้ จึงจำเป็นต้องวินิจฉัยยืนยันร่วมกับการตรวจทางคลินิกอื่น เช่น รอยโรคจากภาพวินิจฉัย การตรวจเซลล์พบการอักเสบและแบคทีเรีย gram-negative bacilli เป็นต้น
+- ในกรณีที่เป็นการติดเชื้อ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 Doxycycline 5 mg/kg q12h หรือ 10 mg/kg q12-24h PO PC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+22,M66/2566,6503052,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,American Bully,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,4,I,1,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,>=64,R,>=320,R,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o	 Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+23,M84/2566,5811016,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Shih Tzu,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,8,S,4,S,8,S,4,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,2,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+24,M85/2566,5605718,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Yorkshire Terrier,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,16,*R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+27,M99/2566,5808619,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Shih Tzu,Male,urine,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,1.1x10^4,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI ในกรณีเก็บตัวอย่างด้วย cystocentesis และ catheterization เท่านั้น
+- 		ในกรณีส่งตัวอย่างปัสสาวะให้ระบุวิธีการเก็บตัวอย่างสำหรับแปลผล urine quantitative culture
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+28,M96/2566,6516538,แผนกสูติกรรม,Dog,Siberian Husky,Male,Prostatic fluid (cyst),NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,>=64,R,>=320,R,ESBL-producing Klebsiella pneumoniae,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+29,M95/2566,6515863,ห้องผ่าตัด,Cat,Scottish Fold,Female,mammary gland,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,4,S,<=20,S,ESBL-producing  Escherichia coli,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Doxycycline 5 mg/kg q12h หรือ 10 mg/kg q12-24h PO PC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+31,M109/2566,5609106,ศัลยกรรม,Dog,Thai Ridgeback Dog,Male,abscess at Rt elbow,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,16,R,<=0.25,S,1,S,<=1,S,<=0.25,S,>=64,R,>=16,R,<=2,S,1,I,<=0.5,S,0.5,I,4,S,4,S,<=16,S,8,S,>=320,R,Escherichia coli,"- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o	 Doxycycline 10 mg/kg q12h PO PC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+33,M115/2566,6600274,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,16,I,<=4,S,16,I,<=0.25,S,4,I,<=1,S,<=0.25,S,<=2,S,<=1,S,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,128,R,16,I,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+35,M134/2566,,,Cat,ไทยผสม,Female,urine,void,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"- จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- ยาต้านจุลชีพที่แนะนำ ตามลำดับ ไดแ้ ก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแหง้ น้ำของแมว ไม่ควรใชย้ านี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแหง้ น้ำของแมว ไม่ควรใชย้ านี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+43,M171/2566,5508488,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Unk,Male,Bed soore,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,32,S,4,S,<=20,S,Klebsiella pneumoniae,"-	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q12h PO for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3
+        วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห ์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+44,M174/2566,6601146,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Persian,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,8,R,16,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.25,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once",,,,,,,,
+47,M186/2566,5903595,คลินิกระบบประสาท,Dog,Poodle,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,0.5,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,128,R,4,S,<=20,S,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+48,M191/2566,5914558,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pomeranian,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,2,S,2,S,32,S,4,S,<=20,S,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+50,M206/2566,,,Dog,Golden Retriever,Female,swab uterus,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,4,S,<=2,S,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,16,I,<=20,S,Escherichia coli,"-	 การติดเชื้อในมดลูกจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 15-25 mg/kg IV q8h (หรือ 25 mg/kg q8h PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 
+        days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่
+        เป็นการติดเชื้อเรื้อรัง โดยอาจให้ร่วมกับ enrofloxacin หรือ marbofloxacin ในขนาดดังนี้
+             • 	Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการ                หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+             •	 Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่อง
+               จนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรงหรือตัดมดลูกออกแล้ว) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้
+        ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อ
+        เรื้อรัง",,,,,,,,
+53,M189/2566,6601204,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,7.0x10^3,NEG,8,S,<=2,S,8,S,8,S,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+55,M201/2566,5910904,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pug,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,R,8,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,1,S,<=1,S,<=16,S,8,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+- ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้า ของสัตว์",,,,,,,,
+64,M245/2566,6502134,คลินิกมะเร็ง,Dog,Shih Tzu,Male,Urine,NA,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,4,S,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,>=64,R,<=20,S,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+65,M240/2566,6516538,แผนกสูติกรรม,Dog,Siberian Husky,Male,Prostatic fluid (cyst),NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,ESBL-producing Escherichia coli,"- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Fosfomycin 150 mg/kg q12h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1 - 2 สัปดาห์ (ยา
+        มีรูปแบบผงละลายน้ำ 1 ซองมีตัวยา 3g เวลาใช้ให้ละลายในน้ำแล้วป้อนให้ทานทันทีหลังละลายยา) ควรประเมินผลในการรักษาอย่าง
+        ใกล้ชิด เนื่องจากไม่มีการตรวจความไวรับของเชื้อต่อยา fosfomycin ขนาดยาที่แนะนำจึงมาจากขนาดยาปกติที่แนะนำให้ใช้ในสุนัข",,,,,,,,
+66,M242/2566,6600944,ศัลยกรรม,Dog,Mixed breed,Male,wound at perianal area,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,4,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,4,S,>=16,R,<=16,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Doxycycline 10 mg/kg q12h PO PC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะ
+        แห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+68,M254/2566,,,Dog,Mixed breed,Female,urine,เจาะผ่านหน้าท้อง,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,<=2,S,<=2,S,8,S,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+69,M256/2566,6006125,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Dachshund,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,1,I,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+72,M259/2566,6300373,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Golden Retriever,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,16,S,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่ 
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+73,M257/2566,6211797,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Poodle,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,>=16,R,>=16,R,<=16,S,4,S,>320,R,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่  
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+83,M275/2566,6601685,หน่วยหอสัตว์ป่วยใน,Dog,Bulldog,Female,MIC urine cath,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,4.3x10^4,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,16,R,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+87,M293/2566,6411257,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Shih Tzu,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,1,I,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+88,M296/2566,6507298,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Shih Tzu,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,16,I,>=4,R,>=4,R,>=4,R,8,I,>=16,R,<=16,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+89,M317/2566,6601637,ห้องผ่าตัด,Dog,Mixed breed,Male,UB mucosa,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,8,S,16,S,0.5,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.25,S,8,I,>=16,R,<=16,S,4,S,<=20,S,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+90,M307/2566,,,Dog,Pomeranian,Male,Urine,เจาะผ่านช่องท้อง,Vitek/MALDI,GN-AST,Escherichia coli,8.4x10^4,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+93,M300/2566,6516538,แผนกสูติกรรม,Dog,Siberian Husky,Male,prostatic cyst,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+94,M325/2566,6601975,ห้องผ่าตัด,Dog,Mixed breed,Male,Abdominal cavity,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,4,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,1,S,<=1,S,32,S,8,S,<=20,S,Escherichia coli,"- 	แนะนำให้วินิจฉัยร่วมกับการทำ fluid evaluation ที่บ่งชี้ว่าเป็น septic exudate
+-	 การติดเชื้อในช่องท้องจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	 Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่อง จนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+95,M334/2566,6601940,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Mixed breed,Female,urine,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,4,I,>=8,R,<=0.25,S,>=64,R,>=16,R,>=64,R,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,>=64,R,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+96,M323/2566,6208888,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Cat,Domestic Shorthair (DSH),Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,2.0x10^4,NEG,>=32,R,4,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,>=16,R,>=16,R,<=16,S,4,S,>=320,R,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once",,,,,,,,
+99,M337/2566,6602006,ห้องผ่าตัด,Dog,Mixed breed,Male,abdominal swab sx site (after lavage),NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,128,R,>=64,R,<=20,S,ESBL-producing Klebsiella pneumoniae,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+101,M346/2566,6601913,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Siberian Husky,Female,urine,voiding,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,1,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days  หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+102,M356/2566,6502490,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,16,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,2,S,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+103,M349/2566,6602203,ห้องผ่าตัด,Dog,Chihuahua,Male,Abdominal cavity,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,<=0.25,S,1,S,4,I,2,I,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,4,S,>=16,R,64,I,>=64,R,40,R,Klebsiella pneumoniae,"- 	แนะนำให้วินิจฉัยร่วมกับการทำ fluid evaluation ที่บ่งชี้ว่าเป็น septic exudate
+-	 การติดเชื้อในช่องท้องจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	 Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q6h หรือ 20 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+106,M359/2566,6602318,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Male,Urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,16,R,8,S,16,S,<=0.25,S,2,S,<=1,S,<=0.25,S,<=2,S,<=1,S,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่ 
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์",,,,,,,,
+112,M371/2566,6001558,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Male,hemoculture,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,2,S,>=8,R,2,S,<=0.25,S,>=64,R,>=16,R,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,Klebsiella pneumoniae,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+113,M375/2566,,,Dog,Shih Tzu,Female,vaginal swab,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,>=16,R,8,I,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,8,I,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"- ยาต้านจุลชีพตามระบบที่แนะนำ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+114,M394/2566,,,Dog,Corgi,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,1,I,1,S,0.25,S,>=16,R,>=16,R,<=16,S,16,I,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Marbofloxacin 11-22 mg/kg q24h หรือแบ่งให้ 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days  หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+115,M396/2566,6601685,ศัลยกรรม,Dog,Bulldog,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,16,R,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days  หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+116,M397/2566,5506632,หน่วยหอสัตว์ป่วยวิกฤต,Dog,English Cocker Spaniel,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,2,S,4,I,4,I,<=0.25,S,>=64,R,>=16,R,>=64,R,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,>=64,R,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days  หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+117,M378/2566,6601740,หอสัตว์ป่วยในศัลยกรรม,Cat,Domestic Shorthair (DSH),Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,2.0x10^3,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,4,S,<=20,S,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days  หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+118,M377/2566,6602068,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Shih Tzu,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,2.0x10^3,NEG,16,R,4,S,8,S,16,S,0.5,S,2,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,<=0.12,S,1,R,4,S,<=16,S,16,I,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+119,M390/2566,6411632,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Cat,Persian,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,4,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่ 
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท  
+        และให้ยาต่อไปอีก 1-2 สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิด
+        ภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days  หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+121,M419/2566,,,Dog,Corgi,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,4,S,4,S,8,S,8,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+124,M420/2566,6306327,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Mixed breed,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,2.0x10^3,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,64,I,<=2,S,<=20,S,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once",,,,,,,,
+127,M447/2566,6602678,ศัลยกรรม,Dog,Mixed breed,Female,Bite wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,8,R,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,Escherichia coli,"- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน 
+        ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+129,M444/2566,6601740,หอสัตว์ป่วยในศัลยกรรม,Cat,Domestic Shorthair (DSH),Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,3.0x10^3,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,4,S,8,I,<=16,S,16,I,<=20,S,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งนํ้า เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+130,M442/2566,6602686,หน่วยหอสัตว์ป่วยวิกฤต,Dog,westie terrier,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,3.6x10^4,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=4,R,>=8,R,>=16,R,8,I,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,4,S,>=320,R,Carbapenem-resistant Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์",,,,,,,,
+131,M436/2566,6601987,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Scottish Fold,Male,Nasal discharge,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,>=16,R,>=16,R,<=16,S,<=2,S,>=320,R,Escherichia coli,"-	**การเพาะเชื้อจาก nasal cavity ไม่ได้มีข้อบ่งชี้ในการวินิจฉัยการติดเชื้อทางเดินหายใจส่วนต้นแบบเฉียบพลัน เนื่องจากเป็นบริเวณที่มีการเจริญของเชื้อประจำถิ่น หรือเชื้อที่ได้รับมาจากสิ่งแวดล้อมและอาจทำให้เกิดการติดเชื้อแทรกซ้อน โดยปกติหากสัตว์มีน้ำมูกข้นเพียงอย่างเดียวโดยไม่มีความผิดปกติอื่นร่วมด้วย อาการจะทุเลาลงได้เองภายใน 10 วันโดยไม่ต้องให้ยาต้านจุลชีพ **
+-	 ในกรณีที่สัตว์มีน้ำมูกนานกว่า 10 วัน หรือแสดงอาการผิดปกติอื่นร่วมด้วย เช่น มีไข้ ซึม เบื่ออาหาร หรือไม่สามารถจัดการกับปัญหาโน้มนำที่ทำให้เกิดการติดเชื้อแทรกซ้อนได้ ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หาก
+        แมวมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้
+        หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+132,M434/2566,6601685,ห้องผ่าตัด,Dog,Bulldog,Female,UB mucosa,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,16,R,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+133,M433/2566,6118093,คลินิกระบบประสาท,Dog,French Bulldog,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+134,M432/2566,6602413,ศัลยกรรม,Cat,Domestic Shorthair (DSH),Male,wound,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,8,S,<=4,S,4,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,4,S,<=20,S,Klebsiella pneumoniae,"- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q12h PO for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 Cefovecin 8 mg/kg SC once 
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+139,M459/2566,6602205,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Male,hemoculture,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,16,*R,<=2,S,<=4,S,<=2,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,1,S,<=1,S,<=16,S,>=64,R,<=20,S,Klebsiella pneumoniae,"- 	การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 15-25 mg/kg IV q8h (หรือ 25 mg/kg q8h PO AC ขึ้นกับความรุนแรงของอาการ) for at least 
+        7 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ใน
+        กรณีที่เป็นการติดเชื้อเรื้อรัง 
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+141,M470/2566,5613768,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Poodle,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,256,R,>=64,R,<=20,S,ESBL-producing Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Imipenem 10 mg/kg q6h หรือ 20 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+142,M472/2566,6310300,ศัลยกรรม,Dog,Beagle,Male,abscess wound at Rt base ear,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,>=64,R,>=320,R,Klebsiella pneumoniae,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+143,M476/2566,6602894,หน่วยหอสัตว์ป่วยวิกฤต,Cat,Himalayan,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,4,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once",,,,,,,,
+145,M485/2566,,,Dog,Great Dane,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,2,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,Escherichia coli,"-	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+147,M503/2566,6115825,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pug,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,8,S,4,S,8,S,8,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+149,M519/2566,6512606,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Poodle,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,4,S,<=2,S,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+150,M513/2566,6601689,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Maine Coon,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,2,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.25,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+152,M523/2566,6603262,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Golden Retriever,Male,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,8,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,1,I,<=0.5,S,0.25,S,8,I,>=16,R,<=16,S,4,S,>=320,R,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	Marbofloxacin 5.5-11 mg/kg q24h SC, IV (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+153,M527/2566,6515151,แผนกสูติกรรม,Dog,Mixed breed,Male,PG abscess/cyst,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+155,M528/2566,6516538,ห้องผ่าตัด,Dog,Siberian Husky,Male,PG abscess,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,ESBL-producing Escherichia coli,"- 	ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+158,M532/2566,6114808,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,16,S,16,S,0.5,S,<=0.5,S,<=1,S,0.5,S,16,R,<=1,S,<=2,S,>=4,R,>=4,R,2,R,1,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+160,M534/2566,6600906,ห้องผ่าตัด,Dog,Pomeranian,Male,UB mucosa+calculus,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,<=2,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,0.25,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+164,M568/2566,6603507,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Domestic Shorthair (DSH),Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,<=2,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once",,,,,,,,
+166,M578/2566,6602827,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,<=2,S,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+168,M586/2566,6511250,แผนกสูติกรรม,Dog,Mixed breed,Male,prostatic abscess,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,R,<=1,S,32,S,4,S,<=20,S,Klebsiella pneumoniae,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+169,M583/2566,6514024,ห้องผ่าตัด,Dog,French Bulldog,Male,Gastric mucosa,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,128,R,16,I,>=320,R,Escherichia coli,#NAME?,,,,,,,,
+170,M581/2566,6603533,ห้องผ่าตัด,Dog,Mixed breed,Male,Surgical site (abdominal cavity),NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,16,R,<=0.25,S,1,R,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,8,I,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+171,M579/2566,,,Dog,Chihuahua,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,1.0x10^3,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+     o Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+175,M595.1/2566,6603690,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Pomeranian,Male,hemoculture,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=20,S,<=20,S,Klebsiella pneumoniae,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำและได้ผลต่อเชื้อทั้ง 2 ชนิด ตามลำดับ ได้แก่
+     o 	Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 		Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+176,M595.2/2566,6603690,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Pomeranian,Male,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,8,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,8,I,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากินซึ่งยาที่แนะนำและได้ผลต่อเชื้อทั้ง 2 ชนิด ตามลำดับ ได้แก่
+     o 	Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 		Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+177,M607/2566,,,Dog,Shih Tzu,Male,urine,เจาะผ่านช่องท้อง,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,1,I,4,R,>=16,R,<=16,S,<=2,S,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+179,M608/2566,5910904,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pug,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,1,R,<=1,S,<=16,S,8,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+180,M621/2566,6603660,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Mixed breed,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,16,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,8,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+181,M618/2566,,,Cat,British Shorthair,Male,fluid from lung,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,<=2,S,<=2,S,<=4,S,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,8,I,<=1,S,<=2,S,1,I,1,S,0.25,S,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 	การติดเชื้อในช่องอกจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 15-25 mg/kg IV q8h (หรือ 25 mg/kg q8h PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 
+        days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่
+        เป็นการติดเชื้อเรื้อรัง โดยอาจให้ร่วมกับ marbofloxacin ในขนาดดังนี้
+             •	 Marbofloxacin 11-22 mg/kg q24h หรือแบ่งให้ 5.5-11 mg/kg q12h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for 
+               at least 7 d หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 
+               สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+183,M614/2566,6603929,หน่วยเวชศาสตร์ฉุกเฉิน,Cat,Domestic Shorthair (DSH),Male,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,8,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,4,S,<=20,S,ESBL-producing Escherichia coli,"- พบการติดเชื้อร่วมกับ  Salmonella
+-	 	การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 	Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 	Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) 	Pradofloxacin 7.5 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+186,M623/2566,6603969,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Domestic Shorthair (DSH),Female,urine,voiding,Vitek/MALDI,GN-AST,Escherichia coli,3.0x10^3,NEG,>=32,R,8,S,16,S,32,R,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,1,S,0.5,I,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture ไม่บ่งชี้ว่าเป็น UTI ให้วินิจฉัยร่วมกับอาการแสดง การตรวจวิเคราะห์ปัสสาวะและการตรวจตะกอนพบเซลล์อักเสบและ gram-negative bacilli
+-	.ในกรณีที่ยืนยันว่าเป็นการติดเชื้อ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once 
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+189,M637/2566,6604003,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Domestic Shorthair (DSH),Male,opened wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,<=2,S,<=2,S,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก  
+        2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 Cefovecin 8 mg/kg SC once 
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+193,M654/2566,,,Cat,Thai,,abdominal fluid,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,0.5,S,4,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"-	 แนะนำให้วินิจฉัยร่วมกับการทำ fluid evaluation ที่บ่งชี้ว่าเป็น septic exudate
+-	 การติดเชื้อในช่องท้องจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะ
+        แห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+194,M650/2566,6603458,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Scottish Fold,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,2.0x10^3,NEG,>=32,R,8,S,8,S,16,S,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.25,S,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+195,M660/2566,,,Dog,Schnauzer,Male,Prostate gland swab,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,4,R,4,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"- ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+     o Marbofloxacin 5.5-11 mg/kg q24h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+196,M663/2566,5614111,ห้องผ่าตัด,Dog,Pug,Female,cystic calculi,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,1,I,>=16,R,>=16,R,<=16,S,4,S,>=320,R,Escherichia coli,"- ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+197,M666/2566,6603655,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Mixed breed,Female,Hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,16,R,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.25,S,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 14 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+199,M674/2566,6603896,หอสัตว์ป่วยในศัลยกรรม,Dog,Labrador Retriever,Male,abdominal drain,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,1,S,0.25,S,>=16,R,>=16,R,<=16,S,8,S,<=20,S,Escherichia coli,"-	 การติดเชื้อในช่องท้องจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Marbofloxacin 11-22 mg/kg q24h หรือแบ่งให้ 5.5-11 mg/kg q12h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at 
+        least 7 d หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ใน
+        กรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+201,M678/2566,,,Dog,Chihuahua,Male,swab left nasal discharge,NA,Vitek/MALDI,GN-AST,Klebsiella oxytoca,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,16,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,>=64,R,<=20,S,Klebsiella oxytoca,"-	**การเพาะเชื้อจาก nasal cavity ไม่ได้มีข้อบ่งชี้ในการวินิจฉัยการติดเชื้อทางเดินหายใจส่วนต้นแบบเฉียบพลัน เนื่องจากเป็นบริเวณที่มีการเจริญของเชื้อประจำถิ่น หรือเชื้อที่ได้รับมาจากสิ่งแวดล้อมและอาจทำให้เกิดการติดเชื้อแทรกซ้อน โดยปกติหากสัตว์มีน้ำมูกข้นเพียงอย่างเดียวโดยไม่มีความผิดปกติอื่นร่วมด้วย อาการจะทุเลาลงได้เองภายใน 10 วันโดยไม่ต้องให้ยาต้านจุลชีพ **
+-	 ในกรณีที่สัตว์มีน้ำมูกนานกว่า 10 วัน หรือแสดงอาการผิดปกติอื่นร่วมด้วย เช่น มีไข้ ซึม เบื่ออาหาร หรือไม่สามารถจัดการกับปัญหาโน้มนำที่ทำให้เกิดการติดเชื้อแทรกซ้อนได้ ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+207,M701/2566,5900778,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Shih Tzu,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,8,S,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,1,I,1,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก
+        1-2 สัปดาห์
+     o Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+209,M697/2566,6602732,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Japanese Spitz,Female,Rt ear,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,8,R,4,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,R,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 แนะนำให้ทำความสะอาดช่องหูวันละ 1 ครั้ง ด้วยน้ำยาล้างหูที่มี antiseptics เป็นส่วนประกอบที่มีคุณสมบัติในการทำลายเชื้อและ biofilm ของเชื้อ หรือ Tris EDTA ทิ้งไว้ 20-30 นาที แล้วจึงหยอดยาหยอดหูที่มีส่วนประกอบของยาต้านจุลชีพ เช่น gentamicin 
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง 
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+210,M708/2566,6604888,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Westie,Female,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,>=64,R,>=16,R,4,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,>=64,R,40,R,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	เชื้อดื้อต่อยาทุกชนิดที่ใช้ทดสอบและมีใช้ในคลินิก แนะนำให้ flush ล้างกระเพาะปัสสาวะด้วย Microcyn® เพื่อช่วยกำจัด/ลดจำนวนเชื้อในกระเพาะปัสสาวะ และจัดการกับสาเหตุโน้มนำต่างๆ เช่น ไม่คาท่อ/สายสวนปัสสาวะ จัดการปัญหานิ่ว เป็นต้น หากจำเป็นต้องใช้ยาต้านจุลชีพที่ออกฤทธิ์ทั่วร่างกาย ยาที่อาจพอได้ผลในการรักษา หากใช้ในขนาดและความถี่ที่แนะนำ ได้แก่
+     o	 Imipenem 10 mg/kg q6hหรือ 20 mg/kg q8h  IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+211,M709/2566,6207852,หน่วยหอสัตว์ป่วยใน,Cat,Mixed breed,Male,MIC urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,2,S,4,I,<=1,S,1,S,>=64,R,>=16,R,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,>=64,R,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+212,M710/2566,6304920,หน่วยจักษุ,Cat,Domestic Shorthair (DSH),Male,conj wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,16,R,16,R,1,S,2,R,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,4,S,>=320,R,Escherichia coli,"-	 แนะนำให้ล้างทำความสะอาดรอยโรคด้วย NSS  หรือ น้ำยาล้างตา ร่วมกับการใช้ยาฆ่าเชื้อ หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin, chloramphenicol
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หาก
+        แมวมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+214,M720/2566,6603463,ห้องผ่าตัด,Dog,Shih Tzu,Female,UB mucosa+calculi,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,4,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,1,I,1,S,1,I,>=16,R,>=16,R,<=16,S,8,S,<=20,S,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+216,M712/2566,6604761,ห้องผ่าตัด,Cat,Domestic Shorthair (DSH),Female,surgical site,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,Escherichia coli,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cefovecin 8 mg/kg SC once
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง 
+     o	 Enrofloxacin 5 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+217,M730/2566,6604327,หน่วยหอสัตว์ป่วยใน,Dog,Bangkaew,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o	 Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+218,M736/2566,6605042,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Female,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,4,R,4,R,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 	Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 	Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+222,M727/2566,6604743,ห้องผ่าตัด,Dog,Mixed breed,Male,UB mucosa+calculi,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,4,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่  
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+223,M744/2566,6512959,ห้องผ่าตัด,Dog,French Bulldog,Male,Rt middle ear fluid,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,1,I,1,S,0.5,I,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"- Left midddle ear fluid พบ methicillin-resistant Staphylococcus pseudintermedius
+-	 ยาต้านจุลชีพที่แนะนำ ได้แก่  
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้
+        หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+226,M761/2566,6104372,หอสัตว์ป่วยในศัลยกรรม,Dog,Pomeranian,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,1.4x10^4,NEG,>=32,R,>=32,R,16,S,>=64,R,2,S,>=8,R,2,S,<=0.25,S,<=2,S,<=1,S,16,I,>=4,R,>=4,R,>=4,R,8,I,>=16,R,<=16,S,16,I,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+228,M774/2566,6207637,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pomeranian,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,<=2,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,R,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+229,M769/2566,6605372,ศัลยกรรม,Dog,Mixed breed,Female,open wound at  ventral abdomen,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,4,R,8,R,4,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,0.25,S,8,I,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-negative bacilli และการตอบสนองต่อการรักษา
+-	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไป
+        อีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Enrofloxacin 10-20 mg/kg q24h หรือแบ่งให้ 5-10 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท 
+        และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+231,M776/2566,6604327,ศัลยกรรม,Dog,บางแก้ว,Female,sx wound,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,>=64,R,>=16,R,4,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,>=64,R,>=320,R,ESBL-producing Klebsiella pneumoniae,"-	 เชื้อเป็น multidrug resistance ดื้อยาต้านจุลชีพตามระบบที่ใช้ในการรักษารพ สัตว์เล็กทุกชนิด
+- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin",,,,,,,,
+232,M787/2566,6211797,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Poodle,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,4,S,>=320,R,,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 	Cefovecin 8 mg/kg SC once
+     o	 Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+- 	ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+234,M789/2566,6601685,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Bulldog,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,16,I,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,256,R,>=64,R,>=320,R,ESBL-producing Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้
+        ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Fosfomycin 150 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1 - 2 สัปดาห์ (ยา
+        มีรูปแบบผงละลายน้ำ 1 ซองมีตัวยา 3g เวลาใช้ให้ละลายในน้ำแล้วป้อนให้ทานทันทีหลังละลายยา) ควรประเมินผลในการรักษาอย่าง
+        ใกล้ชิด เนื่องจากไม่มีการตรวจความไวรับของเชื้อต่อยา fosfomycin ขนาดยาที่แนะนำจึงมาจากขนาดยาปกติที่แนะนำให้ใช้ในสุนัข",,,,,,,,
+235,M790/2566,6401266,หน่วยหอสัตว์ป่วยใน,Dog,French Bulldog,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,1,S,16,R,4,I,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,ESBL-producing Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o	 Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้
+        ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+238,M786/2566,6605498,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Male,Bite wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,4,S,<=1,S,<=2,S,>=4,R,>=4,R,>4,R,8,I,>=16,R,<=16,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะ
+        แห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+239,M797/2566,6605409,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Mixed breed,Female,Abscess (thorax),NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,16,R,8,R,16,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,0.25,S,1,R,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-negative bacilli และการตอบสนองต่อการรักษา
+-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไป
+        อีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Enrofloxacin 10-20 mg/kg q24h หรือแบ่งให้ 5-10 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท 
+        และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+242,M804/2566,,,Dog,Yorkshire Terrier,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,8,S,<=2,S,16,S,8,S,2,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,1,S,0.25,S,2,R,<=1,S,<=16,S,>=64,R,40,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+243,M805/2566,6603876,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Poodle,Female,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,4,R,8,R,4,I,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,4,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,4,S,<=20,S,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+246,M813/2566,6605185,ห้องผ่าตัด,Dog,Mixed breed,Male,Prostatic abscess,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,<=2,S,<=2,S,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,16,I,<=20,S,Escherichia coli,"- ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไป
+        อีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 6-8 weeks หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+247,M818/2566,,,Dog,Chihuahua,Female,urine,เจาะผ่านหน้าท้อง,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.25,S,>=16,R,>=16,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่ 
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+255,M834/2566,5916939,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Chihuahua,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,8.0x10^3,NEG,>=32,R,4,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,R,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้
+        ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+256,M835/2566,6605278,ห้องผ่าตัด,Cat,Domestic Shorthair (DSH),Male,Fluid at rt middle ear,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,8,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,<=20,S,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+258,M840/2566,5813990,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Yorkshire Terrier,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+259,M841/2566,6602732,ศัลยกรรม,Dog,Japanese Spitz,Female,surgical wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,16,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,16,I,<=0.12,S,<=0.5,S,<=0.12,S,8,I,>=16,R,<=16,S,>=64,R,<=20,S,Escherichia coli,"-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+265,M851/2566,6311494,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Beagle,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,2.0x10^3,NEG,>=32,R,16,R,8,S,8,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,<=0.5,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+266,M855/2566,6501212,หน่วยหอสัตว์ป่วยใน,Dog,Mixed Breed,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,8,S,8,S,16,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,>=64,R,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,4,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+267,M856/2566,5605718,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Yorkshire Terrier,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,16,*R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,<=2,S,<=20,S,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+270,M861/2566,6214806,แผนกสูติกรรม,Cat,Domestic Shorthair (DSH),Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,2.2x10^4,NEG,>=32,R,8,S,8,S,16,S,2,S,4,I,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,1,S,1,I,>=16,R,>=16,R,<=16,S,16,I,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Marbofloxacin 11-22 mg/kg q24h หรือแบ่งให้ 5.5-11 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+271,M862/2566,6604560,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,16*,R,>=64,R,2,S,4,I,>=8,R,4,R,4,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะ
+        แห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+273,M874/2566,5709948,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Siberian Huksy,Female,abdominal effusion,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,16,R,8,R,32,R,1,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,0.25,S,1,S,<=1,S,<=16,S,<=2,S,40,R,Escherichia coli,"-	 แนะนำให้วินิจฉัยร่วมกับการทำ fluid evaluation ที่บ่งชี้ว่าเป็น septic exudate
+-	 การติดเชื้อในช่องท้องจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 	Enrofloxacin 10-20 mg/kg q24h หรือแบ่งให้ 5-10 mg/kg q12h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least  
+        7 d หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็น
+        การติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+274,M868/2566,,,Dog,English Cocker,Male,wound at skin mass,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,16,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,4,S,<=20,S,Escherichia coli,"-	 การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-negative bacilli และการตอบสนองต่อการรักษา
+-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไป
+        อีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+275,M869/2566,6605951,หอสัตว์ป่วยในศัลยกรรม,Cat,Domestic Shorthair (DSH),Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,1.0x10^4,NEG,4,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,R,2,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once",,,,,,,,
+277,M880/2566,6600582,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Shih Tzu,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจาก
+        จะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+279,M875/2566,5709948,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Siberian Husky,Female,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,8,R,8,R,16,R,0.5,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,<=0.12,S,1,R,2,R,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o 		Enrofloxacin 10-20 mg/kg q24h หรือแบ่งให้ 5-10 mg/kg q12h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 
+        d หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็น
+        การติดเชื้อเรื้อรัง
+     o 		Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+281,M905/2566,6502134,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Shih Tzu,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,8.7x10^4,POS,>=32,R,4,S,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,ESBL-producing Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+284,M877/2566,6606063,ห้องผ่าตัด,Dog,Chihuahua,Female,wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,16,R,8,R,16,R,1,S,2,R,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,R,4,R,<=16,S,16,I,<=20,S,Escherichia coli,"-	 การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-negative bacilli และการตอบสนองต่อการรักษา
+-	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+285,M888/2566,6606155,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Basenji,Female,Hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,8,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,R,<=1,S,<=16,S,4,S,<=20,S,ESBL-producing Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+286,M887/2566,6502134,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Shih Tzu,Male,Hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,4,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,ESBL-producing Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+287,M881/2566,6600582,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Shih Tzu,Male,Hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,8,R,>=16,R,<=16,S,4,S,>=320,R,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยา
+        นี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+289,M892/2566,6606152,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Cat,Scottish Fold,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,1.0x10^3,NEG,<=2,S,<=2,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,R,<=1,S,<=16,S,4,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once",,,,,,,,
+292,M912/2566,6515779,หน่วยอายุรกรรมทั่วไปและเวชศาสตร์ป้องกัน,Dog,Mixed breed,Female,Abscess,NA,Vitek/MALDI,GN-AST,Salmonella sp,NA,NEG,>=32,R,4,R,16,R,4,R,0.5,S,2,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,>=16,R,>=16,R,<=16,S,16,I,>=320,R,Salmonella sp,"-	 การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-negative bacilli และการตอบสนองต่อการรักษา
+-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+293,M924/2566,5613705,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Shih Tzu,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์ 
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิด
+        ความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+294,M942/2566,6210180,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pomeranian,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,8,S,<=4,S,<=2,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,1,S,0.5,I,>=16,R,>=16,R,128,R,>=64,R,>=320,R,Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Marbofloxacin 11-22 mg/kg q24h หรือแบ่งให้ 5.5-11 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหาย
+        สนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+299,M944/2566,6007384,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Pomeranian,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,4,I,<=0.25,S,<=2,S,<=1,S,<=2,S,0.5,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,4,S,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Enrofloxacin 10-20 mg/kg q24h หรือแบ่งให้ 5-10 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท
+        และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+300,M939/2566,5803870,ศัลยกรรม,Dog,Welsh Corgi,Male,wound,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,<=2,S,<=2,S,8,R,4,I,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,<=2,S,<=20,S,Escherichia coli,"- 	การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-positive cocci และการตอบสนองต่อการรักษา
+-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง  
+     o	 Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+302,M951/2566,6604990,ห้องผ่าตัด,Cat,British Shorthair,Female,surgical wound at perineum,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,1,I,<=0.5,S,0.5,I,1,R,<=1,S,32,S,<=2,S,>=320,R,Klebsiella pneumoniae,"-	 การวินิจฉัยว่าเป็นการติดเชื้อควรพิจารณาร่วมกับรอยโรคที่แสดงการอักเสบติดเชื้อ การทำ cytology พบการเพิ่มจำนวนของ gram-negative bacilli และการตอบสนองต่อการรักษา
+-	 แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Marbofloxacin 5.5-11 mg/kg q24h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ใน
+        กรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หาก
+        แมวมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+303,M953/2566,6502490,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,8,R,>=16,R,<=16,S,<=2,S,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+304,M954/2566,6605951,หน่วยหอสัตว์ป่วยใน,Cat,Domestic Shorthair (DSH),Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,4,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,64,I,>=64,R,>=320,R,ESBL-producing Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o	 Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+310,M971/2566,6412224,หน่วยหอสัตว์ป่วยวิกฤต,Dog,Unknown,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,16,R,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,2,S,<=1,S,<=16,S,8,S,<=20,S,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for at least 14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+     o	 Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+311,M961/2566,6604560,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Mixed breed,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,2,S,4,I,4,I,2,I,4,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะ
+        แห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q6h หรือ 20 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจน
+        อาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+312,M976/2566,6601685,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Bulldog,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,8,S,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,8,I,128,R,>=64,R,>=320,R,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์
+-	 ในกรณีนี้ไม่แนะนำให้ใช้ amoxicillin/clavulanic acid ถึงแม้เชื้อจะแสดงความไวรับ เนื่องจากค่า mic สูง ต้องให้ยาถี่มาก (25 mg/kg อย่างน้อยทุก 4 ชั่วโมง) เพื่อรักษาระดับยาในเลือดให้สูงกว่า mic ไม่น้อยกว่า 50% ของระยะห่าง (ความถี่) ในการให้ยา ซึ่งไม่สะดวกต่อเจ้าของสัตว์",,,,,,,,
+314,M978/2566,,,Dog,Shih Tzu,Male,น้ำจากฝี,NA,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,NA,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,1,S,64,I,<=2,S,<=20,S,Klebsiella pneumoniae,"- 	แนะนำให้ล้างทำความสะอาดบาดแผลด้วย wound irrigation solution  หรือ antiseptics ที่ได้ผลต่อเชื้อและทำลาย biofilms เช่น Prontosan® ร่วมกับการใช้ยาฆ่าเชื้อ เช่น silver alginate หรือยาต้านจุลชีพเฉพาะที่ เช่น amikacin
+-	 ในกรณีที่มีการอักเสบติดเชื้อรุนแรง มีการติดเชื้อชั้นลึก หรือเสี่ยงต่อการติดเชื้อตามระบบ ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o	 Cephalexin 25-30 mg/kg q12h PO for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่
+        เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง  
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+316,M985/2566,6606560,หอสัตว์ป่วยในศัลยกรรม,Dog,Spitz,Female,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,4,S,8,S,4,S,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,S,<=16,S,>=64,R,>=320,R,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+321,M1004/2566,6600883,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+325,M1020/2566,,,Dog,Schnauzer,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,POS,>=32,R,16,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,32,S,16,I,>=320,R,ESBL-producing Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+326,M1027/2566,6606155,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Basenji,Female,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,4,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,1,S,<=1,S,<=16,S,<=4,S,<=20,S,ESBL-producing Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amikacin 15 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็น
+        การติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หาก
+        สุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+327,M1033/2566,6606974,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Chihuahua,Male,hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,>=64,R,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,128,R,16,I,>=320,R,Escherichia coli,"-	 การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ได้แก่
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+330,M1014/2566,5613705,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Shih Tzu,Male,urine,cystocentesis,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,<=2,S,>=16,R,16,I,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,>=64,R,>=320,R,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+331,M1050/2566,6516389,แผนกสูติกรรม,Cat,British Shorthair,Male,urine,NA,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,4,S,2,S,>=64,R,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,256,R,16,I,>=320,R,Escherichia coli,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amikacin 30 mg/kg q24h หรือแบ่งให้ 15 mg/kg q12hSC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะ
+        แห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 12 mg/kg q24h หรือแบ่งให้ 6 mg/kg q12hSC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์ (ควร monitor ไตและภาวะแห้งน้ำของแมว ไม่ควรใช้ยานี้หากแมวมีความผิดปกติของไตหรือเกิดภาวะ
+        แห้งน้ำ เนื่องจากจะทำให้เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+332,M1059/2566,6602597,แผนกสูติกรรม,Cat,Domestic Shorthair (DSH),Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,0.5,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,256,R,>=64,R,<=20,S,ESBL-producing Klebsiella pneumoniae,"-	 จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Imipenem 10 mg/kg q8h IV infusion over 20-60 minutes for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และ
+        ให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+333,M1065/2023,6513904,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Mixed breed,Male,urine,catheterization,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,NEG,>=32,R,<=2,S,<=4,S,<=2,S,<=0.25,S,1,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,64,I,4,S,<=20,S,Klebsiella pneumoniae,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q12h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+334,M1068/2566,6607110,ห้องผ่าตัด,Dog,Shih Tzu,Female,Ureter + pus in real pelvis,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,16,R,4,R,16,R,16,R,2,S,4,R,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,4,S,<=16,S,8,S,<=20,S,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+338,M1078/2566,6606950,ห้องผ่าตัด,Dog,Mixed breed,Female,UB mucosa+calculi,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,16,I,>=320,R,ESBL-producing Escherichia coli,"- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+339,M1082/2566,6604549,ห้องผ่าตัด,Dog,Shih Tzu,Female,UB mucosa + calculus,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,POS,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,2,I,<=2,S,<=1,S,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,>=16,R,<=16,S,8,S,>=320,R,ESBL-producing Escherichia coli,"- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Nitrofurantoin 5 mg/kg q8h PO PC for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 
+        สัปดาห์
+     o 	Amikacin 15 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)
+     o 	Gentamicin 6 mg/kg q24h SC, IM for at least 10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+        (ควร monitor ไตและภาวะแห้งน้ำของสุนัข ไม่ควรใช้ยานี้หากสุนัขมีความผิดปกติของไตหรือเกิดภาวะแห้งน้ำ เนื่องจากจะทำให้
+        เกิดความเป็นพิษต่อไตมากขึ้น)",,,,,,,,
+341,M1090/2566,6502489,ห้องผ่าตัด,Cat,Domestic Shorthair (DSH),Male,mass at larynges,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,4,R,<=2,S,8,R,8,R,<=0.25,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,2,S,<=16,S,8,S,<=20,S,Escherichia coli,"- ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	Cefovecin 8 mg/kg SC once 
+     o	 Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+342,M1093/2566,6102754,ห้องผ่าตัด,Dog,Shih Tzu,Male,UB mucosa,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,>=32,R,>=32,R,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,>=16,R,>=64,R,>=16,R,>=64,R,0.25,S,<=0.5,S,<=0.12,S,1,S,>=16,R,>=512,R,16,I,<=20,S,Escherichia coli,"-	 ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o 	Enrofloxacin 5-10 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Marbofloxacin 5.5-11 mg/kg q24h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์",,,,,,,,
+344,M1100/2566,6410313,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Shih Tzu,Male,urine,catheterization,Vitek/MALDI,GN-AST,Escherichia coli,>10^5,NEG,<=2,S,4,S,8,S,8,S,0.5,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,32,S,16,I,<=20,S,Escherichia coli,"- 	จากการทำ urine quantitative culture บ่งชี้ว่าเป็น UTI
+- 	ยาต้านจุลชีพที่แนะนำ ตามลำดับ ได้แก่
+     o 	Amoxicillin/clavulanic acid 25 mg/kg q8h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 
+        1-2 สัปดาห์ 
+     o 	Cephalexin 25-30 mg/kg q8h PO for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 1-2 สัปดาห์
+     o 	Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 10-14 days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยา
+        ต่อไปอีก 1-2 สัปดาห์
+     o Cefovecin 8 mg/kg SC once อาจให้ซ้ำได้อีก 1 ครั้งหลังจากให้เข็มแรก 7-14 วัน หากอาการยังไม่หายสนิท",,,,,,,,
+345,M1104/2566,6410313,หน่วยเวชศาสตร์ฉุกเฉิน,Dog,Shih Tzu,Male,Hemoculture,NA,Vitek/MALDI,GN-AST,Escherichia coli,NA,NEG,<=2,S,<=2,S,8,R,4,I,0.5,S,<=0.5,S,<=1,S,<=0.25,S,<=2,S,<=1,S,<=2,S,<=0.12,S,<=0.5,S,<=0.12,S,1,S,<=1,S,<=16,S,8,S,<=20,S,Escherichia coli,"- 	การติดเชื้อในเลือดจัดเป็น medical emergency มีอันตรายและความเสี่ยงที่ทำให้เกิดการติดเชื้อทั่วร่างกาย จำเป็นต้องใช้ยาต้านจุลชีพตามระบบ แนะนำให้ใช้ยาฉีดมากกว่ายากิน ซึ่งยาที่แนะนำ ตามลำดับ ได้แก่
+     o	 Amoxicillin/clavulanic acid 15-25 mg/kg IV q8h (หรือ 25 mg/kg q8h PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 
+        days หรือให้ยาต่อเนื่องจนอาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่
+        เป็นการติดเชื้อเรื้อรัง โดยอาจให้ร่วมกับ enrofloxacin หรือ marbofloxacin ในขนาดดังนี้
+             • 	Enrofloxacin 5 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจนอาการ
+               หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+             • 	Marbofloxacin 5.5-11 mg/kg q24h SC (หรือ PO AC ขึ้นกับความรุนแรงของอาการ) for at least 7 d หรือให้ยาต่อเนื่องจน
+               อาการหายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง
+     o 	(หากอาการไม่รุนแรง) Sulfamethoxazole/trimethoprim 30 mg/kg q12h PO AC for 7-10 days หรือให้ยาต่อเนื่องจนอาการ
+        หายสนิท และให้ยาต่อไปอีก 2-3 วัน ในกรณีที่เป็นการติดเชื้อฉับพลัน หรือ 1-2 สัปดาห์ ในกรณีที่เป็นการติดเชื้อเรื้อรัง",,,,,,,,
+348,M1112/2566,6601685,คลินิกไต/หัวใจ/ต่อมไร้ท่อ,Dog,Bulldog,Female,urine,cystocentesis,Vitek/MALDI,GN-AST,Klebsiella pneumoniae,>10^5,POS,>=32,R,16,I,>=64,R,>=64,R,>=8,R,>=8,R,>=8,R,<=0.25,S,>=64,R,>=16,R,<=2,S,>=4,R,>=4,R,>=4,R,>=16,R,8,I,256,R,>=64,R,>=320,R,,,,,,,,,,
